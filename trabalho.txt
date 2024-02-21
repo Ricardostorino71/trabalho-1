@@ -1,0 +1,8 @@
+Forneça a definição da termo ARQUIVO, no contexto da computação:
+arquivo é um conjunto de dados que se relacionam de alguma forma, ou seja, juntos descrevem uma informação ou conjunto de informações. Em função da natureza dos computadores, arquivos são sempre formados por dados digitais, organizados seguindo algum tipo de estrutura (ou formato).
+O que é um ARQUIVO DE TEXTO?
+é um tipo de arquivo de computador que contém texto simples, ou seja, caracteres legíveis por humanos. 
+ Explique o que é uma VARIÁVEL, no contexto da programação de computadores
+ é um objeto (uma posição, frequentemente localizada na memória) capaz de reter e representar um valor ou expressão. 
+ Explique o que seria um SERVIDOR, no contexto da computação
+qualquer solução tecnológica com capacidade para executar programas de forma centralizada, além de armazenar e compartilhar arquivos, administrar filas de impressão e prestar algum tipo de serviço para vários computadores, através de uma rede local 
