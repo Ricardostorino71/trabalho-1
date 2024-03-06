@@ -1,0 +1,29 @@
+1 - Utilizando a linguagem de programação Python, implemente um ou mais códigos de exemplo dos seguintes elementos:
+uma estrutura de repetição; 
+
+# Loop while: imprime os números de 1 a 5
+print("Loop usando while:")
+num = 1
+while num <= 5:
+    print(num)
+    num += 1
+
+# Loop for: imprime os elementos de uma lista
+print("\nLoop usando for:")
+lista = ["a", "b", "c", "d", "e"]
+for elemento in lista:
+    print(elemento)
+
+
+
+uma estrutura de tomada de decisão.
+
+# Verifica se uma pessoa pode dirigir com base na idade
+idade = 18
+
+if idade >= 18:
+    print("Você pode dirigir!")
+else:
+    print("Você ainda não pode dirigir.")
+
+
