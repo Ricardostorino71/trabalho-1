@@ -1,0 +1,11 @@
+ – Explique as diferenças entre 3 linguagens de programação: 
+Linguagem java-  É uma linguagem de alto nível projetada para ter o menor número possível de dependências de implementação. Dessa forma, os programadores escrevem o código uma única vez e ele pode ser executado em qualquer plataforma que comporte essa linguagem de programação.
+Linguagem phyton-É uma linguagem de programação de alto nível e de propósito generalista. Sua filosofia de design enfatiza a legibilidade do código com a proposta de ser de fácil compreensão com o uso de palavras-chave em inglês. Não costuma utilizar recursos gráficos como chaves e colchetes para delimitar blocos.
+Linguagem Php-É uma linguagem de uso geral e livre distribuição voltada para a criação de sistemas web. Como utiliza o código aberto, os desenvolvedores conseguem mexer nela e aprimorar suas funcionalidades. Possui funções similares à linguagem C, que também pode ser utilizada para extensões na PHP. Além disso, pode ser utilizada para o controle de drones.
+
+
+a. Tente fazer um código mínimo em cada uma delas; 
+
+b. Tente executar o seu código;
+
+
