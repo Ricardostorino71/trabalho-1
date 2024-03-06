@@ -14,6 +14,8 @@ lista = ["a", "b", "c", "d", "e"]
 for elemento in lista:
     print(elemento)
 
+https://github.com/Ricardostorino71/trabalho-1/blob/cbdaf46a0d062c7612d4a4f2163fdab534e244c3/estrutura%20repeti%C3%A7ao.png
+
 
 
 uma estrutura de tomada de decisão.
@@ -25,5 +27,7 @@ if idade >= 18:
     print("Você pode dirigir!")
 else:
     print("Você ainda não pode dirigir.")
+
+https://github.com/Ricardostorino71/trabalho-1/blob/cbdaf46a0d062c7612d4a4f2163fdab534e244c3/estrutura%20de%20tomada%20de%20deci.png
 
 
