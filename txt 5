@@ -14,7 +14,24 @@ def bubble_sort(arr):
 # Exemplo de uso:
 arr = [64, 34, 25
 
-– implemente um algorítimo que imprima apenas as vogais de uma
+https://github.com/Ricardostorino71/trabalho-1/blob/11a27a625a85aeba87419211f7653f7e17fe98fd/buble%20sort.png
+
+implemente um algorítimo que imprima apenas as vogais de uma
 determinada palavra ou frase.
+
+def imprimir_vogais(frase):
+    vogais = "aeiouAEIOU"
+    vogais_encontradas = [letra for letra in frase if letra in vogais]
+    print("Vogais encontradas na frase:", ''.join(vogais_encontradas))
+
+# Exemplo de uso:
+frase = "Olá, mundo! Esta é uma frase de exemplo."
+print("Frase original:", frase)
+imprimir_vogais(frase)
+
+
+
+
+
 
 
